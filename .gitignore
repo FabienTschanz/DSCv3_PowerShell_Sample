@@ -1,0 +1,3 @@
+# Exclude directories output and test
+**/output/
+**/test/
